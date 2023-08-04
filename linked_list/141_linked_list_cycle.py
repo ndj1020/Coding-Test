@@ -47,6 +47,7 @@ class Solution(object):
 s = Solution()
 inputList = [3,2,0,-4] 
 pos = 1
+andy = 1
 
 head = s.makeLinkedList(listInput=inputList, pos=pos)
 for i in range(1,10):
